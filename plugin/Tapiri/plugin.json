@@ -1,0 +1,11 @@
+{
+  "id": "tapiri",
+  "name": "Tapiri",
+  "description": "Touch friendly window controls for Niri",
+  "version": "1.0.0",
+  "author": "Sylvie00",
+  "icon": "widgets",
+  "type": "widget",
+  "component": "./Buttons.qml",
+  "permissions": ["settings_read", "settings_write"]
+}
