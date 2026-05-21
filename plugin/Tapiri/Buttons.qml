@@ -50,7 +50,7 @@ PluginComponent {
                 visible: root.showOverview
                 size: Theme.iconSize
                 color: Theme.primary
-                anchors.horizontalCenter: parent.horizontalCenter
+                anchors.verticalCenter: parent.verticalCenter
 
                 MouseArea {
                     anchors.fill: parent

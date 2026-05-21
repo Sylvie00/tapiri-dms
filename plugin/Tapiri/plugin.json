@@ -2,7 +2,7 @@
   "id": "tapiri",
   "name": "Tapiri",
   "description": "Touch friendly window controls for Niri",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Sylvie00",
   "icon": "widgets",
   "type": "widget",
